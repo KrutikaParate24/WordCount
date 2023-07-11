@@ -1,0 +1,2 @@
+Hello world! This is a sample text file. It contains different words, some of which may be repeated. Counting words in this file will give us the total number of occurrences for each word.
+Let's see the result.
